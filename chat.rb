@@ -11,6 +11,6 @@ begin
   
   if s != 'quit'
     reaction = robot.get_reaction(s)
-    STDOUT.puts "ALUCA << #{reaction}"
+    STDOUT.puts "CHARLOTTE << #{reaction}"
   end
 end while s != 'quit'
