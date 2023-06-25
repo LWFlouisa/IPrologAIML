@@ -1,0 +1,2 @@
+charlotte(player, not_couple).
+charlotte(player, couple).
